@@ -1,1 +1,1 @@
-version two of git repository 
+version two of software in git repository   
